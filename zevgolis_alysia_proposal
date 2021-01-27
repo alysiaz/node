@@ -1,0 +1,16 @@
+Alysia Zevgolis
+1/27/2021
+Project Proposal: Describe your chosen problem and whether you have access to relevant data.
+1.	Draft a well-formed problem statement relevant to a business problem affecting your team, division, or organization.
+o	Poverty is a growing problem across the globe. It leads to slower per capital growth rate and reduces a country’s ability to compete in a world market. Studies show that one way to combat poverty is to increase the population’s average education level. 
+2.	Include the following elements:
+o	Hypothesis/assumptions
+1.	Increasing the average education level for population will decrease rates of poverty within that population over time. 
+o	Goals and success metrics
+1.	Be able to plot a correlation between decreasing poverty and increasing average education
+2.	Be able to link poverty as dependent on education
+o	Risks or limitations
+1.	A population’s decrease in poverty can be due to multiple factors and may not be solely due to increased education. This may increase the difficulty to link education and poverty together.
+3.	Identify at least one relevant internal dataset and confirm that you have (or can get) the right access permissions.
+
+https://www.kaggle.com/theworldbank/world-bank-intl-education
